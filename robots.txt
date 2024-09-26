@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tearewrepr.github.io/sitemap.tearewrepr.gz
+Sitemap: https://tearewrepr.github.io/app/sitemap.tearewrepr.gz
+Sitemap: https://tearewrepr.github.io/assets/sitemap.tearewrepr.gz
+Sitemap: https://tearewrepr.github.io/css/sitemap.tearewrepr.gz
+Sitemap: https://tearewrepr.github.io/data/sitemap.tearewrepr.gz
+Sitemap: https://tearewrepr.github.io/includes/sitemap.tearewrepr.gz
+Sitemap: https://tearewrepr.github.io/item/sitemap.tearewrepr.gz
+Sitemap: https://tearewrepr.github.io/src/sitemap.tearewrepr.gz
